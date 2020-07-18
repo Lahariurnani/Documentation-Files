@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Web Design and Development - Apssdc'
+project = 'Attendance Management System'
 copyright = '2020, APSSDC'
-author = 'APSSDC'
+author = 'Lahari'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
